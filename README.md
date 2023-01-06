@@ -1,5 +1,7 @@
 # Digit-recognition-with-Tensorflow
 
-Creating the CNN model in "CNN_Training_test.ipynb"
+This is a project that i've made during my Msc at Skema.
 
-Deploying it in "CNN_Deployment.ipynb"
+I created the CNN model in "CNN_Training_test.ipynb"
+
+Then, deploying it in "CNN_Deployment.ipynb"
